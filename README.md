@@ -30,13 +30,6 @@ My goal is to transform theoretical knowledge into practical experience through 
 - Git & GitHub
 - Linux (Ubuntu)
 - VS Code
-- Command Line Interface (CLI)
-
-**Core Concepts**
-- Object-Oriented Programming (OOP)
-- Basic Data Structures & Algorithms
-- Problem Solving
-- Computer Engineering Fundamentals
 
 ---
 
@@ -88,11 +81,19 @@ Each repository contains documentation explaining its purpose and implementation
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Profiles
 
-- 📧 Email: **kamercan.eng@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/kamer-can-313412387](https://www.linkedin.com/in/kamer-can-313412387/)
-- 💻 GitHub: [github.com/cankamer](https://github.com/cankamer)
+<p align="center">
+  <a href="mailto:kamercan.eng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kamercan.eng%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kamer-can-313412387/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kamer%20Can-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/kamercan0">
+    <img src="https://img.shields.io/badge/LeetCode-kamercan0-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
