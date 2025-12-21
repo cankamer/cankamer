@@ -84,57 +84,17 @@ Each repository contains documentation explaining its purpose and implementation
 ## 📫 Contact & Profiles
 
 <p align="center">
-  <!-- Gmail -->
   <a href="mailto:kamercan.eng@gmail.com">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      background-color:#2f2f2f;
-      border-radius:10px;
-      padding:10px;
-      margin:6px;
-    ">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-    </span>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
-
-  <!-- LinkedIn (uzun buton + isim) -->
   <a href="https://www.linkedin.com/in/kamer-can-313412387/">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      background-color:#2f2f2f;
-      border-radius:10px;
-      padding:10px 18px;
-      margin:6px;
-    ">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-      <span style="
-        color:white;
-        font-weight:500;
-        margin-left:10px;
-        font-family:Arial, sans-serif;
-      ">
-        Kamer Can
-      </span>
-    </span>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/kamercan0">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      background-color:#2f2f2f;
-      border-radius:10px;
-      padding:10px;
-      margin:6px;
-    ">
-      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
-    </span>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
   </a>
 </p>
+
+---
 
 ⭐ *Thank you for visiting my profile. Feel free to explore my repositories and follow my development journey.*
