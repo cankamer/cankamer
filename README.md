@@ -1,38 +1,99 @@
-# Hi there, I'm Kamer! 👋
+# Hi, I'm Kamer Can 👋
 
-### 🎓 Computer Engineering Student
-I am a Computer Engineering student at **Yıldız Technical University**. I am passionate about building clean, efficient, and scalable solutions while constantly expanding my technical knowledge.
-
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, HTML5, CSS3 |
-| **Frameworks** | React, Node.js, Express |
-| **Databases** | PostgreSQL, MongoDB, MySQL |
-| **DevOps & Tools** | Git, GitHub, Docker, VS Code |
+🎓 Computer Engineering Student at **Yıldız Technical University (YTÜ)**  
+💻 Currently improving my skills in **Java** and **C programming**  
+🚀 Focused on building strong software fundamentals and engineering mindset
 
 ---
 
-### 📊 GitHub Ecosystem
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cankamer&show_icons=true&theme=tokyonight&hide_border=true" alt="Kamer's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankamer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+## 👨‍💻 About Me
+
+I am a Computer Engineering student at Yıldız Technical University with a strong motivation to continuously improve my technical skills and problem-solving abilities.
+
+Currently, I am focusing on:
+- **Java**, to strengthen my understanding of object-oriented programming and application development
+- **C language**, to gain deeper insight into low-level programming and system fundamentals
+
+I aim to transform theoretical knowledge into practical experience through projects, coursework, and continuous self-development.
 
 ---
 
-### 📫 Connect with me
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+## 🛠️ Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamer-can-313412387/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kamercan.eng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p
+**Programming Languages**
+- Java (actively developing)
+- C (actively developing)
+- Python (basic)
+- C++ (basic)
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code
+- Command Line Interface (CLI)
+
+**Core Concepts**
+- Object-Oriented Programming (OOP)
+- Basic Data Structures & Algorithms
+- Problem Solving
+- Computer Engineering Fundamentals
 
 ---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&theme=default&hide_border=true"
+      height="170"
+    />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true"
+      height="170"
+    />
+  </picture>
 </p>
+
+---
+
+## 📂 Projects
+
+My repositories mainly include:
+- Java and C practice projects
+- University assignments and lab work
+- Small-scale experiments to strengthen core programming concepts
+
+Each repository contains documentation explaining its purpose and implementation.
+
+---
+
+## 📈 Current Focus
+
+- Improving Java and C programming proficiency  
+- Writing clean, readable, and efficient code  
+- Enhancing algorithmic thinking  
+- Preparing for future software and embedded systems projects  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **kamercan.eng@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/kamer-can-313412387](https://www.linkedin.com/in/kamer-can-313412387/)
+- 💻 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and follow my development journey.*
