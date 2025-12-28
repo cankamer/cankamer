@@ -1,7 +1,7 @@
 # Hi, I'm Kamer Can 👋
 
 🎓 Computer Engineering Student at **Yıldız Technical University (YTÜ)**  
-💻 Currently improving my skills in **Java** and **C programming**  
+💻 Currently improving my skills in **JavaScript** and **C programming**  
 🚀 Focused on building strong software fundamentals and an engineering mindset
 
 ---
