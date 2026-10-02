@@ -10,9 +10,6 @@ I like building things where software meets the physical world or AI: desktop to
 | --- | --- |
 | [Tab2Share](https://github.com/cankamer/Tab2Share) | Desktop app for guitarists. Write tabs, export them as transparent PNGs for Reels, TikTok and Shorts overlays. Tauri, React, TypeScript, Rust. |
 | [Wraith W75 Profile Changer](https://github.com/cankamer/Wraith-W75-Profile-Changer) | Switches a Wraith W75 keyboard between game and normal profiles depending on the focused app. Talks to the keyboard over USB HID. Python. |
-| [docu-skill](https://github.com/cankamer/docu-skill) | AI coding assistant skill that keeps a living `DESIGN.md` in sync with your project as the code changes. |
-| [goruntu-isleme](https://github.com/cankamer/goruntu-isleme) | OpenCV image processing exercises. Python. |
-| [Portfolio](https://kamerportfolio.vercel.app) | Personal site. TypeScript. |
 
 ## Before this
 
@@ -28,7 +25,11 @@ TypeScript, React, Python, C, C++, Java, Rust (learning), Arduino, OpenCV, Git, 
 
 ## Activity
 
-![Contribution graph](https://ghchart.rshah.org/2ea043/cankamer)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cankamer&theme=github-dark&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cankamer&theme=default&hide_border=true&background=00000000">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=cankamer&theme=default&hide_border=true">
+</picture>
 
 ## Contact
 
